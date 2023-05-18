@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ronghui Guo / Site Title"
+title                    : "Ronghui Guo / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Ronghui Guo"
 description              : &description "personal description"
