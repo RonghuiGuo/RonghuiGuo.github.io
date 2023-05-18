@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [College of Intelligence and Computing](http://cic.tju.edu.cn/), [Tianjin University](https://www.tju.edu.cn/). My research interest includes large language models, graph learning, and natural language processing.
+I'm a first year master student from [College of Intelligence and Computing](http://cic.tju.edu.cn/), [Tianjin University](https://www.tju.edu.cn/). My research interest includes large language models, graph learning, and natural language processing.
 
 <!-- I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Tianjin University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Tianjin University. -->
 
