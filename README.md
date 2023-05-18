@@ -1,4 +1,4 @@
-Please visit [the homepage](https://ronghuiguo.github.io/). The website is currently unfinished and also has many errors.
+Please visit the [homepage](https://ronghuiguo.github.io/). The website is currently unfinished and also has many errors.
 
 # Original README.md
 
