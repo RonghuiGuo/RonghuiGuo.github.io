@@ -15,7 +15,7 @@ Education
 * M.S. in Tianjin, Tianjin University, 2025 (expected)
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-Work experience
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -25,7 +25,7 @@ Work experience
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
   
 Skills
 ======
